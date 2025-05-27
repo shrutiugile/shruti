@@ -1,2 +1,2 @@
 # shruti
-My first repository
+My first repository... and some changes
